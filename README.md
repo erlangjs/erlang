@@ -1,6 +1,7 @@
-Chicago Boss: Start small, dream big
+Erlang.js - A JavaScript Wrapper
 ====================================
-[![Build Status](https://travis-ci.org/ChicagoBoss/ChicagoBoss.svg?branch=master)](https://travis-ci.org/ChicagoBoss/ChicagoBoss)
+
+[![Run on Repl.it](https://repl.it/badge/github/erlangjs/erlang)](https://repl.it/github/erlangjs/erlang)
 
 Attention! This is a master branch supporting Erlang 18. For older Erlang versions use legacy branch.
 
